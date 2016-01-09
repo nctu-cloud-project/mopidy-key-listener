@@ -1,0 +1,27 @@
+{
+  "name": "mopidy-key-listener",
+  "version": "1.0.0",
+  "description": "Directly listen to event from /dev/input/eventX and do response.",
+  "main": "listener.js",
+  "dependencies": {
+    "input-event": "github:risacher/input-event"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nctu-cloud-project/mopidy-key-listener.git"
+  },
+  "keywords": [
+    "input_event",
+    "mopidy"
+  ],
+  "author": "Chih-Yung Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nctu-cloud-project/mopidy-key-listener/issues"
+  },
+  "homepage": "https://github.com/nctu-cloud-project/mopidy-key-listener#readme"
+}
